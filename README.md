@@ -13,3 +13,7 @@ Think you can outsmart the mystery number? Here’s how to play:
 - If your score drops to 0, it’s Game Over!
 
 Your mission: Guess the secret number before your score runs out. Good luck! 🏆
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=antonriabokon_Guess-Number-Game2&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=antonriabokon_Guess-Number-Game2)
+
+[![SonarQube Cloud](https://sonarcloud.io/images/project_badges/sonarcloud-light.svg)](https://sonarcloud.io/summary/new_code?id=antonriabokon_Guess-Number-Game2)
